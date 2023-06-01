@@ -1,0 +1,12 @@
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.deps.json
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.dll
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.pdb
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.AssemblyReference.cache
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.dll
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/refint/CalculatorLibrary.dll
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.pdb
+/Users/nesy.js/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/ref/CalculatorLibrary.dll

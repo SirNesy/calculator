@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lh7J5lhjzAVSmvIcCPq7+BYc+cm9fzw5+cKD0sBILmA=",
+  "Source": "CalculatorWebService",
+  "BasePath": "_content/CalculatorWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
